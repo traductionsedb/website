@@ -16,7 +16,7 @@ title = "à propos"
 		
 		
 		<p>
-			Je suis passionnée de lecture et de mots depuis ma tendre enfance. Je lis le plus souvent possible, ce qui signifie tout le temps!
+			Je suis passionnée de lecture et de mots depuis ma tendre enfance. Je lis le plus souvent possible et j'affectionne particulièrement les romans.
 		</p>
 
 		<p>
