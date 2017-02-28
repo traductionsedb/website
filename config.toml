@@ -67,6 +67,11 @@ paginate = 10
     url  = "/contact/"
     weight = 4
 
+[[params.menu]]
+    name = "English"
+    url  = "//edbtranslations.com/"
+    weight = 5
+
 # Enable and disable widgets for the right sidebar
 #[params.widgets]
 #    categories = true
