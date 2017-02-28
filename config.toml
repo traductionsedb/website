@@ -31,7 +31,7 @@ paginate = 10
     email = "your@email.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Droit d'auteur 2016, Traductions EDB; tous droits réservés."
+    copyright = """<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Contrat Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) création est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>."""
     date_format = "2006-01-02"
     logo = "img/logo.png"
     address = """<p><strong>Universal Ltd.</strong>
