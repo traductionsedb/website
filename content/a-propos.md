@@ -10,7 +10,7 @@ title = "à propos"
 			
 		
 		<p>
-			Je m’appelle Émilie Dick-Bélisle et j’étudie actuellement à l’Université Laval en traduction. J’obtiendrai mon diplôme à l’hiver 2017.
+			Je m’appelle Émilie et j’ai un baccalauréat en traduction (B.A) que j'ai obtenu en 2017 à l'Université Laval.
 		</p>
 
 		
